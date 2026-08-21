@@ -1,4 +1,4 @@
-# CS300-Data-Structures-and-Algorithms
+# CS300 Data Analysis and Design
 Course work for CS300 in SNHU's Computer Science Program
 
 # What was the problem you were solving in the projects for this course?
